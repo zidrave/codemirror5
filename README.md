@@ -1,5 +1,10 @@
 # CodeMirror 5
 
+ver mas themes con imagenes aqui:
+
+https://www.npmjs.com/package/@uiw/codemirror-themes
+
+
 **NOTE:** [CodeMirror 6](https://codemirror.net/) exists, and is more mobile-friendly, more accessible, better designed, and much more actively maintained.
 
 [![Build Status](https://github.com/codemirror/codemirror5/workflows/main/badge.svg)](https://github.com/codemirror/codemirror5/actions)
